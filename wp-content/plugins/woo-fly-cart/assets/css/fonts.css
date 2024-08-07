@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'woofc';
-    src: url('../fonts/woofc.eot');
-    src: url('../fonts/woofc.eot#iefix') format('embedded-opentype'),
-    url('../fonts/woofc.ttf') format('truetype'),
-    url('../fonts/woofc.woff') format('woff'),
-    url('../fonts/woofc.svg#woofc') format('svg');
+    src: url('https://michlaguardia99.github.io/Ecommerce/wp-content/plugins/woo-fly-cart/assets/fonts/woofc.eot');
+    src: url('https://michlaguardia99.github.io/Ecommerce/wp-content/plugins/woo-fly-cart/assets/fonts/woofc.eot#iefix') format('embedded-opentype'),
+    url('https://michlaguardia99.github.io/Ecommerce/wp-content/plugins/woo-fly-cart/assets/fonts/woofc.ttf') format('truetype'),
+    url('https://michlaguardia99.github.io/Ecommerce/wp-content/plugins/woo-fly-cart/assets/fonts/woofc.woff') format('woff'),
+    url('https://michlaguardia99.github.io/Ecommerce/wp-content/plugins/woo-fly-cart/assets/fonts/woofc.svg#woofc') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;

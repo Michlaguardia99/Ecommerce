@@ -22,10 +22,10 @@
 .wcpscwc-product-slider .products li{margin:0 0px !important; padding:0 5px !important; clear:none !important;}
 .wcpscwc-product-slider .products .product.first{clear:none !important; float:left !important}
 .wcpscwc-product-slider button.slick-arrow {width:15px; height:26px; position:absolute; z-index:9; text-indent:-99999px;border:0px !important;padding:20px 15px !important; text-align:center; margin:0px !important; border-radius:0px !important; cursor:pointer;}
-.wcpscwc-product-slider button.slick-next {background:rgba(0,0,0,0.5) url('../images/arrow-right.png') center center no-repeat !important; background-size:15px 26px !important; outline:none !important}
+.wcpscwc-product-slider button.slick-next {background:rgba(0,0,0,0.5) url('https://michlaguardia99.github.io/Ecommerce/wp-content/plugins/woo-product-slider-and-carousel-with-category/assets/images/arrow-right.png') center center no-repeat !important; background-size:15px 26px !important; outline:none !important}
 .wcpscwc-product-slider button.slick-next:hover,  
 .wcpscwc-product-slider button.slick-next:focus{background-color:rgba(0,0,0,0.8) !important;}
-.wcpscwc-product-slider button.slick-prev{background:rgba(0,0,0,0.5) url('../images/arrow-left.png') center center no-repeat !important;background-size:15px 26px !important; outline:none !important}
+.wcpscwc-product-slider button.slick-prev{background:rgba(0,0,0,0.5) url('https://michlaguardia99.github.io/Ecommerce/wp-content/plugins/woo-product-slider-and-carousel-with-category/assets/images/arrow-left.png') center center no-repeat !important;background-size:15px 26px !important; outline:none !important}
 .wcpscwc-product-slider button.slick-prev:hover, 
 .wcpscwc-product-slider button.slick-prev:focus{background-color:rgba(0,0,0,0.8) !important;}
 .wcpscwc-product-slider .slick-dots{padding:0 !important; margin:0 !important; text-align:center; width:100%}

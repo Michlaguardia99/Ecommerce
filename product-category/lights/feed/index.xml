@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lights &#8211; uiuxom</title>
+	<atom:link href="https://michlaguardia99.github.io/Ecommerce/product-category/lights/feed/" rel="self" type="application/rss+xml" />
+	<link>https://michlaguardia99.github.io/Ecommerce/</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Feb 2024 20:14:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Nicoz Fabric Room Lamp</title>
+		<link>https://michlaguardia99.github.io/Ecommerce/product/nicoz-fabric-room-lamp/</link>
+					<comments>https://michlaguardia99.github.io/Ecommerce/product/nicoz-fabric-room-lamp/#respond</comments>
+		
+		<dc:creator><![CDATA[examstechnodream_michealal]]></dc:creator>
+		<pubDate>Mon, 12 Feb 2024 05:01:13 +0000</pubDate>
+				<guid isPermaLink="false">https://exams.technodreamcenter.com/michaelalain.laguardia/uiuxom/?post_type=product&#038;p=155</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://michlaguardia99.github.io/Ecommerce/product/nicoz-fabric-room-lamp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
