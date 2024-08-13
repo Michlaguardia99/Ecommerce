@@ -209,3 +209,33 @@ add_filter('woocommerce_sale_flash', 'ds_replace_sale_text');
 
 
 add_theme_support('woocommerce');
+
+function disable_right_click_and_shortcuts() {
+    ?>
+    <script>
+    jQuery(document).ready(function($) {
+ 
+        $(document).on("contextmenu", function(e) {
+            e.preventDefault();
+        });
+
+        $(document).keydown(function(event) {
+            if (event.keyCode == 123 || 
+                (event.ctrlKey && event.shiftKey && event.keyCode == 67) || 
+                (event.ctrlKey && event.shiftKey && event.keyCode == 73) || 
+                (event.ctrlKey && event.keyCode == 85) || 
+                (event.ctrlKey && event.keyCode == 80) || 
+                (event.ctrlKey && event.keyCode == 83) || 
+                (event.ctrlKey && event.keyCode == 74) || 
+                (event.ctrlKey && event.keyCode == 76) || 
+                (event.keyCode == 122) || 
+                (event.ctrlKey && event.shiftKey && event.keyCode == 74) 
+            ) { 
+                event.preventDefault();
+            }
+        });
+    });
+    </script>
+    <?php
+}
+add_action('wp_footer', 'disable_right_click_and_shortcuts');
